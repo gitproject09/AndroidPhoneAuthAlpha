@@ -44,8 +44,8 @@ public class MainActivity extends AppCompatActivity {
 
         String respose = "";
 
-        String username = "moniruzzaman";
-        String hash_token = "d5e8c834c1de3bcd7140af989b8b6656";
+        String username = "your_username";
+        String hash_token = "your_hash_token";
 
         Log.e(MainActivity.class.getSimpleName(), "PhoneNumber: " + phoneNumber);
         //Single or Multiple mobiles numbers separated by comma
